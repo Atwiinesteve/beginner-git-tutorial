@@ -1,4 +1,3 @@
-# HELLO WORLD.
+# Welcome to the Git and GitHub Tutorial.
 
-- I am adding this from `branch-one`
-- This is another one from the `branch-one` branch.
+- This is a welcome to the course.
