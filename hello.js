@@ -1,5 +1,3 @@
 console.log("Hello world.");
 
-console.log("Hello Github");
-
-console.log("TRYING OUT GIT REVERT!")
+console.log("Hello Github")
